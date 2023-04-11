@@ -1,0 +1,5 @@
+﻿  FileName.cpp
+D:\VS.c\book.cpp\the 5th week pta.c\FileName.cpp(30,24): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\VS.c\book.cpp\the 5th week pta.c\FileName.cpp(34,43): warning C4244: “+=”: 从“double”转换到“long”，可能丢失数据
+D:\VS.c\book.cpp\the 5th week pta.c\FileName.cpp(37,48): warning C4244: “+=”: 从“double”转换到“long”，可能丢失数据
+  the 5th week pta.c.vcxproj -> D:\VS.c\book.cpp\the 5th week pta.c\x64\Debug\the 5th week pta.c.exe
